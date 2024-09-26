@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm  Amine a Tech Developper and System Engineer specialized inn DevOps culture. I aim to automate useful things and develop utilities that might help people.</h1>
+<h1>Hi 👋, I'm  Amine a Tech Developper and System Engineer specialized in DevOps culture. I aim to automate useful things and develop utilities that might help people.</h1>
 <p>A passionate DevOps Engineer such as : Docker, Portainer, K8S, RHCOS :  Data Entry, Data Visualization, Shell Scripting, Powershell, UI automation... DB, Monitoring, Junit for testing, Selenium Browser automation </p>
 <details> 
    <summary> <h2>🚀 Languages and Tools I Use</h2>  </summary> 
