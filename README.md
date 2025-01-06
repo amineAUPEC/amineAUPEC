@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm  Amine a Tech Developper and System Engineer specialized in DevOps culture. I aim to automate useful things and develop utilities that might help people.</h1>
 <p>A passionate DevOps Engineer such as : Docker, Portainer, K8S, RHCOS :  Data Entry, Data Visualization, Shell Scripting, Powershell, UI automation... DB, Monitoring, Junit for testing, Selenium Browser automation </p>
+
+<p> <a target="_blank" href="https://amineaupec.github.io/jetops.lab.blog/" style="display: inline-block;">  </a>https://amineaupec.github.io/jetops.lab.blog/ My blog and portfolio and review mainly in French then English Go ahead with the JetDevOps</p>
+
 <details> 
    <summary> <h2>🚀 Languages and Tools I Use</h2>  </summary> 
   <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
